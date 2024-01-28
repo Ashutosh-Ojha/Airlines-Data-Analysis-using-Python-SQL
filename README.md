@@ -74,6 +74,6 @@ Please download the dataset and place it in the appropriate directory before run
 
 ## Report
 
-For detailed insights and technical details, please refer to the [project report](link/to/report) included in this repository.
+For detailed insights and technical details, please refer to the [project report](https://github.com/Ashutosh-Ojha/Airlines-Data-Analysis-using-Python-SQL/blob/master/Report%20of%20Airlines%20Analysis.pdf) included in this repository.
 
 Feel free to explore the Jupyter Notebook for a comprehensive view of the analysis.
